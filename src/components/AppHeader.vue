@@ -17,7 +17,7 @@ export default {
 </script>
 
 <template>
-    <div> {{ title }} </div>
+    <h1> {{ title }} </h1>
     <HeaderNav/>
 </template>
 

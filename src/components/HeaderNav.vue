@@ -12,8 +12,8 @@ export default {
         <select name="select-status" id="">
             <option value="">Select status</option>
         </select>
-        <button>Search</button>
-        <button>Reset</button>
+        <button class="search-button">Search</button>
+        <button class="reset-button">Reset</button>
     </div>
 </template>
 
